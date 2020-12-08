@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav {
+    display: flex;
+}
+
+.navbar-nav-link {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: red;
+    color: #fff;
+    border-right: 1px solid #fff;
+}
